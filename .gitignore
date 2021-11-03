@@ -1,0 +1,9 @@
+node_modules
+.vscode
+apidoc.json
+documentation
+documentation_partner
+storage
+apidoc
+log/*
+api_docs
